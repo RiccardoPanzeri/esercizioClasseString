@@ -1,1 +1,1 @@
-Semplice esercizio che prevede l'utilizzo di Programmazione ad Oggetti in C++, e l'utilizzo della  classe <string> e dei suoi metodi;
+Semplice esercizio che prevede l'utilizzo di Programmazione ad Oggetti in C++ e utilizzo della  classe <string> e dei suoi metodi;
